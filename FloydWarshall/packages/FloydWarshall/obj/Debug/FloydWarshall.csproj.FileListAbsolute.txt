@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\Дима_\Дима_\bin\Debug\Дима_.exe.config
+C:\Users\User\Downloads\Дима_\Дима_\bin\Debug\Дима_.exe
+C:\Users\User\Downloads\Дима_\Дима_\bin\Debug\Дима_.pdb
+C:\Users\User\Downloads\Дима_\Дима_\bin\Debug\Microsoft.Msagl.dll
+C:\Users\User\Downloads\Дима_\Дима_\bin\Debug\Microsoft.Msagl.Drawing.dll
+C:\Users\User\Downloads\Дима_\Дима_\bin\Debug\Microsoft.Msagl.GraphViewerGdi.dll
+C:\Users\User\Downloads\Дима_\Дима_\obj\Debug\FloydWarshall.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Дима_\Дима_\obj\Debug\FloydWarshall.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\Дима_\Дима_\obj\Debug\FloydWarshall.Form1.resources
+C:\Users\User\Downloads\Дима_\Дима_\obj\Debug\Дима_.Properties.Resources.resources
+C:\Users\User\Downloads\Дима_\Дима_\obj\Debug\FloydWarshall.csproj.GenerateResource.cache
+C:\Users\User\Downloads\Дима_\Дима_\obj\Debug\FloydWarshall.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Дима_\Дима_\obj\Debug\FloydWarshall.csproj.CopyComplete
+C:\Users\User\Downloads\Дима_\Дима_\obj\Debug\Дима_.exe
+C:\Users\User\Downloads\Дима_\Дима_\obj\Debug\Дима_.pdb
